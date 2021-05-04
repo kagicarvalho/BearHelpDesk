@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace BearHelpDesk.Domain.Enums
 {
-    public enum ETicketType
+    public enum ESeverityLevel
     {
-        Support = 0,
-        budget = 1,
-        Doubts = 2,
-        Maintenance = 3,
-        Suggestion = 4
+        CriticalPriority = 0,
+        HighPriority = 1,
+        MediumPriority = 2,
+        LowPriority = 3
     }
 }

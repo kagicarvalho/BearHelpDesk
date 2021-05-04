@@ -11,6 +11,12 @@ namespace BearHelpDesk.Domain.Enums
         New = 0,
         Open = 1,
         Urgent = 2,
-        Closed = 3
+        Approved = 3,
+        InProgress = 4,
+        Concluded = 5,
+        Paused = 6,
+        Pending = 7,
+        Cancelad = 8,
+        Closed = 9
     }
 }

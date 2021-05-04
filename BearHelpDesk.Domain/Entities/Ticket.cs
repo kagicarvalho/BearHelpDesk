@@ -11,11 +11,12 @@ namespace BearHelpDesk.Domain.Entities
 {
     public class Ticket : BaseEntity
     {
-        public Ticket(string title, string description, ETicketStatus status, ETicketType type, Guid idClient, Address address)
+        public Ticket(string title, string description, ETicketStatus status, ETicketType type, ESeverityLevel level, Guid idClient, Address address)
         {
             Title = title;
             Description = description;
             Status = status;
+            Level = level;
             Type = type;
             IdClient = idClient;
             Address = address;
@@ -39,6 +40,7 @@ namespace BearHelpDesk.Domain.Entities
         [MinLength(3, ErrorMessage = "Este campo deve conter entre e 3 60 caracteres")]
         public string Description { get; private set; }
         public ETicketStatus Status { get; private set; }
+        public ESeverityLevel Level { get; private set; }
         public ETicketType Type { get; private set; }
         public Guid IdClient { get; private set; }
         public Guid Attendant { get; private set; }

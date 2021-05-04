@@ -13,9 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\Handlers\" />
-    <Folder Include="Domain\Queries\" />
-    <Folder Include="Domain\Ticket\" />
     <Folder Include="Domain\User\" />
   </ItemGroup>
 
