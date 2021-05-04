@@ -1,0 +1,12 @@
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\bin\Debug\net5.0\BearHelpDesk.Infra.deps.json
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\bin\Debug\net5.0\BearHelpDesk.Infra.dll
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\bin\Debug\net5.0\ref\BearHelpDesk.Infra.dll
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\bin\Debug\net5.0\BearHelpDesk.Infra.pdb
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\obj\Debug\net5.0\BearHelpDesk.Infra.csprojAssemblyReference.cache
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\obj\Debug\net5.0\BearHelpDesk.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\obj\Debug\net5.0\BearHelpDesk.Infra.AssemblyInfoInputs.cache
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\obj\Debug\net5.0\BearHelpDesk.Infra.AssemblyInfo.cs
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\obj\Debug\net5.0\BearHelpDesk.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\obj\Debug\net5.0\BearHelpDesk.Infra.dll
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\obj\Debug\net5.0\ref\BearHelpDesk.Infra.dll
+C:\Projetos\BearHelpDesk\BearHelpDesk.Infra\obj\Debug\net5.0\BearHelpDesk.Infra.pdb

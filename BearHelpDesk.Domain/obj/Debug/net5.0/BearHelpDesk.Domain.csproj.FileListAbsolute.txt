@@ -1,0 +1,12 @@
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\bin\Debug\net5.0\BearHelpDesk.Domain.deps.json
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\bin\Debug\net5.0\BearHelpDesk.Domain.dll
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\bin\Debug\net5.0\ref\BearHelpDesk.Domain.dll
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\bin\Debug\net5.0\BearHelpDesk.Domain.pdb
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\obj\Debug\net5.0\BearHelpDesk.Domain.csprojAssemblyReference.cache
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\obj\Debug\net5.0\BearHelpDesk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\obj\Debug\net5.0\BearHelpDesk.Domain.AssemblyInfoInputs.cache
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\obj\Debug\net5.0\BearHelpDesk.Domain.AssemblyInfo.cs
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\obj\Debug\net5.0\BearHelpDesk.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\obj\Debug\net5.0\BearHelpDesk.Domain.dll
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\obj\Debug\net5.0\ref\BearHelpDesk.Domain.dll
+C:\Projetos\BearHelpDesk\BearHelpDesk.Domain\obj\Debug\net5.0\BearHelpDesk.Domain.pdb
