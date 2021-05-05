@@ -42,9 +42,10 @@ namespace BearHelpDesk.Domain.Entities
         public ETicketStatus Status { get; private set; }
         public ESeverityLevel Level { get; private set; }
         public ETicketType Type { get; private set; }
-        public Guid IdClient { get; private set; }
-        public Guid Attendant { get; private set; }
         public Address Address { get; private set; }
         public DateTime CloseTicket { get; set; }
+        public Guid IdClient { get; private set; }
+        public Guid Attendant { get; private set; }
+        public virtual ICollection<Work> Works { get; set; }
     }
 }

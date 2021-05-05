@@ -15,7 +15,7 @@ namespace BearHelpDesk.Domain.Entities
         public string CustomerNotice { get; private set; }
         public decimal Price { get; private set; }
         public Address Address { get; private set; }
-        public string Client { get; private set; }
-        public string Atendente { get; private set; }
+        public Guid ClientId { get; private set; }
+        public Guid Attendant { get; private set; }
     }
 }
