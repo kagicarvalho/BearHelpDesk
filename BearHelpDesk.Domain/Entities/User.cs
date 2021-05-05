@@ -12,7 +12,6 @@ namespace BearHelpDesk.Domain.Entities
     public class User : IdentityUser<string>
     {
         public EDocumentType Document { get; set; }
-
         public virtual ICollection<Address> Addresses { get; set; }
     }
 }
